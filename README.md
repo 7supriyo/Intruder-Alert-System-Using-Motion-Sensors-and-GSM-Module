@@ -110,6 +110,4 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 - Thanks to the Arduino community for providing extensive resources and support.
 - Special thanks to the developers of the libraries used in this project.
 
-## Contact
 
-For any questions or feedback, please contact the project maintainer:
